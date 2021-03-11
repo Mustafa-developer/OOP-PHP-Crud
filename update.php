@@ -1,6 +1,4 @@
-<?php 
-
-include('crud-database.php');
+ <?php include('crud-database.php');
 
 
 $id = $_GET['update'];
